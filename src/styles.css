@@ -1,0 +1,25 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40 !important;
+}
+
+footer {
+  position: relative;
+  bottom: 0px;
+  left: 0;
+  right: 0;
+  background: #343a30 !important;
+}
+
+*:focus, *:active, *:hover{
+  box-shadow: none !important;
+}
+
+.bg-grey{
+  background-color: #343a40;
+}
